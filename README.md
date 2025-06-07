@@ -28,7 +28,7 @@ git clone https://github.com/ReverseEngineeringDude/ActiveSub.git
 ```bash
 pip install -r requirements.txt 
 ```
-
+Add Your ```subdom.txt``` list inside the subdomain folder
 ## 3️⃣ Run the Tool
 
 🔹 Command Line Mode:
