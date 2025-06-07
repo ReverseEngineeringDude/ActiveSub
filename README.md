@@ -1,6 +1,6 @@
 # 🛠️ Active Subdomain Finder
 
-### 🔎 A Tool for Detecting Subdomain Takeover Vulnerabilities
+### 🔎 A Tool for Detecting Subdomain Takeover Vulnerabilities **404**
 
 ---
 
@@ -37,6 +37,10 @@ python main.py
 ```
 
 🔹 Web UI Mode (Streamlit):
+#### Example here 
+![Video Preview](assets/Pi7_Gif.gif)
+
+
 ```bash
 streamlit run streamlit.py
 ```
